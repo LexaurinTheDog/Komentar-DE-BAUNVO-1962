@@ -1,0 +1,222 @@
+{
+  "created_at": "2026-10-19T13:32:30.833382+00:00",
+  "scope": "This title only; this manifest excludes its own hash.",
+  "files": [
+    {
+      "path": "sources/BJNR004290962.xml",
+      "bytes": 76016,
+      "sha256": "d654896409b6a0604c3bada96e9730b278f30dcbf391ce756507dc928e947c88",
+      "kind": "official source snapshot or documented extraction"
+    },
+    {
+      "path": "sources/baugb-249a.html",
+      "bytes": 7200,
+      "sha256": "caa173de20928f17ba52d8852c9be7f8ee192d63f7e02f0b2bc9751cd157aad9",
+      "kind": "official source snapshot or documented extraction"
+    },
+    {
+      "path": "sources/baugb-31.html",
+      "bytes": 5232,
+      "sha256": "d9969b40c7ef6a008e1f0a6a67e8a63ff086c532016eec86f8e28ad98e8d4a1c",
+      "kind": "official source snapshot or documented extraction"
+    },
+    {
+      "path": "sources/baugb-34.html",
+      "bytes": 10148,
+      "sha256": "1938ba7b27d92257c23105f747d00a91c182ec6d5dd925b1263f78281ab82da0",
+      "kind": "official source snapshot or documented extraction"
+    },
+    {
+      "path": "sources/baunvo.html",
+      "bytes": 98008,
+      "sha256": "a952bd802c4752797a8f2eac38e4b0f61e3df9d559d4ddc03904894380ed146b",
+      "kind": "official source snapshot or documented extraction"
+    },
+    {
+      "path": "sources/baunvo.zip",
+      "bytes": 13489,
+      "sha256": "5e5c767112b30be8e8316feef9124efdd0105cb67eac8cc7ecc441f2c8c5fbb8",
+      "kind": "official source snapshot or documented extraction"
+    },
+    {
+      "path": "sources/bgbl-2023-176.html",
+      "bytes": 41201,
+      "sha256": "e1e47d4dcb29bea2d52cb223507e1e6be423cbb43b450fba66cb61dd913427c9",
+      "kind": "official source snapshot or documented extraction"
+    },
+    {
+      "path": "sources/bgbl-2023-176.pdf",
+      "bytes": 354345,
+      "sha256": "2c12125cff2572885f8e2148c9c329442e2742af1cdec2645b9f905310346515",
+      "kind": "official source snapshot or documented extraction"
+    },
+    {
+      "path": "sources/bgbl-2023-176.txt",
+      "bytes": 31889,
+      "sha256": "c72733f4819280843f1c0ac4663f2a560f3949cb45138615e84dc86b649d87e1",
+      "kind": "official source snapshot or documented extraction"
+    },
+    {
+      "path": "sources/canonical.md",
+      "bytes": 44588,
+      "sha256": "19ebf621b93e72fa1edc4be8cd4749c2b88a95ce3d76a15da1c47ba1aae3bd4a",
+      "kind": "derived editorial evidence or original explanatory card"
+    },
+    {
+      "path": "sources/change-map.json",
+      "bytes": 3875,
+      "sha256": "fb43b6df9d29dda533dde6db53b114f7a18d17fc0063b3fd1598f316bb14173c",
+      "kind": "derived editorial evidence or original explanatory card"
+    },
+    {
+      "path": "sources/index.html",
+      "bytes": 13356,
+      "sha256": "f51d189f3daa684bfd43853ff300f5a0e4ef853b213d2a688a3e4725c90b6294",
+      "kind": "official source snapshot or documented extraction"
+    },
+    {
+      "path": "sources/intake-2026-10-01.md",
+      "bytes": 47797,
+      "sha256": "a014b0250a5efbf987e190dbbd956a41668095d6ac6fc5304b1557141b9e4b73",
+      "kind": "derived editorial evidence or original explanatory card"
+    },
+    {
+      "path": "sources/search-log.json",
+      "bytes": 14587,
+      "sha256": "95b355f50eb4737247655eed40186db570ad434e736a9798288b8c2c6486d1e9",
+      "kind": "derived editorial evidence or original explanatory card"
+    },
+    {
+      "path": "sources/structure-disposition.json",
+      "bytes": 892,
+      "sha256": "13a9ed3ca2273c75b7e23e901523be613e01bff0149dd6b354329350bb35286c",
+      "kind": "derived editorial evidence or original explanatory card"
+    },
+    {
+      "path": "sources/verification.json",
+      "bytes": 11686,
+      "sha256": "186aa01b8c06e15f5082f4a15680beacd13e5113a72bb928d9cf5ac8eed6cb16",
+      "kind": "derived editorial evidence or original explanatory card"
+    },
+    {
+      "path": "cases/051125B4B2.25.0-direct-error.html",
+      "bytes": 17,
+      "sha256": "2938e9f1284180959e33ab1718d0793a72ff6e4cdb8108c34dcd14e69446de5c",
+      "kind": "official source snapshot or documented extraction"
+    },
+    {
+      "path": "cases/051125B4B2.25.0-response.json",
+      "bytes": 105036,
+      "sha256": "56e080d02f8ef961c79b575d49b6ebf021c2d85936f83df58889ddd35bef0988",
+      "kind": "official source snapshot or documented extraction"
+    },
+    {
+      "path": "cases/051125B4B2.25.0.html",
+      "bytes": 66990,
+      "sha256": "c44e57b0090e8cdae505d5dded253c48646e4f5052614710df71ba5808709ad7",
+      "kind": "official source snapshot or documented extraction"
+    },
+    {
+      "path": "cases/051125B4B2.25.0.md",
+      "bytes": 30799,
+      "sha256": "8c595de7d08a457d833dfcba27b6b2d9afa2a6ea3a05e5cbb448cbfa648c961e",
+      "kind": "derived editorial evidence or original explanatory card"
+    },
+    {
+      "path": "cases/150922U4C3.21.0-direct-error.html",
+      "bytes": 17,
+      "sha256": "2938e9f1284180959e33ab1718d0793a72ff6e4cdb8108c34dcd14e69446de5c",
+      "kind": "official source snapshot or documented extraction"
+    },
+    {
+      "path": "cases/150922U4C3.21.0-response.json",
+      "bytes": 90378,
+      "sha256": "6b375b4e81652b9d6a174c4b8360f68d019ef62eaa2d9145e41065d83daabdec",
+      "kind": "official source snapshot or documented extraction"
+    },
+    {
+      "path": "cases/150922U4C3.21.0.html",
+      "bytes": 58896,
+      "sha256": "1d7eda7c1238d250c4a3bb7d02cd00fb465ffdacf00de58d1e2e0724ca9d048e",
+      "kind": "official source snapshot or documented extraction"
+    },
+    {
+      "path": "cases/150922U4C3.21.0.md",
+      "bytes": 24225,
+      "sha256": "05eb1fcea1c35f2e9fa4fac3d63833d5688d3d752842727f8f75227ef98ef44a",
+      "kind": "derived editorial evidence or original explanatory card"
+    },
+    {
+      "path": "cases/181017U4C5.16.0-direct-error.html",
+      "bytes": 17,
+      "sha256": "2938e9f1284180959e33ab1718d0793a72ff6e4cdb8108c34dcd14e69446de5c",
+      "kind": "official source snapshot or documented extraction"
+    },
+    {
+      "path": "cases/181017U4C5.16.0-response.json",
+      "bytes": 126056,
+      "sha256": "1b132e9114bd03704c33a7906e82575d96f5d8a764b069e318c8ef18b4e7f3fc",
+      "kind": "official source snapshot or documented extraction"
+    },
+    {
+      "path": "cases/181017U4C5.16.0.html",
+      "bytes": 80852,
+      "sha256": "f26e34a9cb885ff6926975a77265b364f304e2eb28f00b8467a34aba52706827",
+      "kind": "official source snapshot or documented extraction"
+    },
+    {
+      "path": "cases/181017U4C5.16.0.md",
+      "bytes": 37428,
+      "sha256": "00f7399b830e5ca8a8687fce278f48cd7e69f784667dcf1152e1b180334fcffb",
+      "kind": "derived editorial evidence or original explanatory card"
+    },
+    {
+      "path": "cases/4-B-2-25.md",
+      "bytes": 1376,
+      "sha256": "5c61e18ad3c07c9085af279c5cdcf4e6526380762b2228ea8dd725bede9efc42",
+      "kind": "derived editorial evidence or original explanatory card"
+    },
+    {
+      "path": "cases/4-C-3-21.md",
+      "bytes": 1429,
+      "sha256": "056bbbc7c5a746423573483d616f1c34a1400c586b0c582c1fc3868d18b840bc",
+      "kind": "derived editorial evidence or original explanatory card"
+    },
+    {
+      "path": "cases/4-C-5-16.md",
+      "bytes": 1405,
+      "sha256": "e9348e5ab56b0f89936cafa3b26f09603c68239d3aae82ae6c3e771a9899fb50",
+      "kind": "derived editorial evidence or original explanatory card"
+    },
+    {
+      "path": "cases/README.md",
+      "bytes": 1333,
+      "sha256": "d36e85652547863cecd1f9c19434b7a4c606142f36635730c99bc5ba4c519494",
+      "kind": "derived editorial evidence or original explanatory card"
+    },
+    {
+      "path": "cases/corpus-WBRE201800017.md",
+      "bytes": 26085,
+      "sha256": "25c899558624c1064195e64a344b4ae6576c7b27e5844bd17c5959863d15f52c",
+      "kind": "official source snapshot or documented extraction"
+    },
+    {
+      "path": "cases/corpus-WBRE201800017.xml",
+      "bytes": 32841,
+      "sha256": "e87aafa94824613312336d27a3b5a89432974527130dc1f4709de4e5b3cd68bb",
+      "kind": "official source snapshot or documented extraction"
+    },
+    {
+      "path": "cases/corpus-WBRE202200701.md",
+      "bytes": 16169,
+      "sha256": "a66ea022d8b74b42a32ed69b0ee16e930ff34f493680c09b10055f281106f3fc",
+      "kind": "official source snapshot or documented extraction"
+    },
+    {
+      "path": "cases/corpus-WBRE202200701.xml",
+      "bytes": 20498,
+      "sha256": "efb5c79e5e0b44d624cecca35f8f0cf876bf10893f7ce60c9d180c75a5348eb5",
+      "kind": "official source snapshot or documented extraction"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "intake_sha256": "a014b0250a5efbf987e190dbbd956a41668095d6ac6fc5304b1557141b9e4b73",
+  "official_xml_sha256": "d654896409b6a0604c3bada96e9730b278f30dcbf391ce756507dc928e947c88",
+  "comparison": "Complete numbered units, with § 25 editorial footnote separated on both sides; whitespace, table separator pipes and syntactic Markdown table rule rows ignored.",
+  "intake_unit_count": 40,
+  "verified_unit_count": 40,
+  "units": [
+    {
+      "id": "p1",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p2",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p3",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p4",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p4a",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p5",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p5a",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p6",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p6a",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p7",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p8",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p9",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p10",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p11",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p12",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p13",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p13a",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p14",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p15",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p16",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p17",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p18",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p19",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p20",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p21",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p21a",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p22",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p23",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p24",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p25",
+      "same_statutory_text_ignoring_layout": true,
+      "editorial_footnote_unchanged": true,
+      "presentation_change": "Previously appended footnote is now separately identified from operative text."
+    },
+    {
+      "id": "p25a",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p25b",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p25c",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p25d",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p25e",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p25f",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p25g",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p26",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p26a",
+      "same_statutory_text_ignoring_layout": true
+    },
+    {
+      "id": "p27",
+      "same_statutory_text_ignoring_layout": true
+    }
+  ],
+  "no_substantive_text_change": true
+}

@@ -1,0 +1,330 @@
+{
+  "date": "2026-10-19",
+  "recorded_at": "2026-10-19T13:32:30.833382+00:00",
+  "web_queries": [
+    {
+      "provider": "Firecrawl CLI",
+      "query": "site.bverwg.de BauNVO 17 Orientierungswerte 2021 2025",
+      "results": {
+        "success": true,
+        "data": {
+          "web": [
+            {
+              "url": "https://www.gesetze-im-internet.de/baunvo/__17.html",
+              "title": "§ 17 BauNVO - Einzelnorm - Gesetze im Internet",
+              "description": "Verordnung über die bauliche Nutzung der Grundstücke (Baunutzungsverordnung - BauNVO) § 17 Orientierungswerte für die Bestimmung des Maßes der baulichen Nutzung.",
+              "position": 1
+            },
+            {
+              "url": "https://dejure.org/gesetze/BauNVO/17.html",
+              "title": "17 BauNVO - Orientierungswerte für die Bestimmung des Maßes...",
+              "description": "§ 17. Orientierungswerte für die Bestimmung des Maßes der baulichen Nutzung ; Baugebiet, Grundflächenzahl (GRZ) ; in, Kleinsiedlungsgebieten (WS), 0,2 ; in, reinen ...",
+              "position": 2
+            },
+            {
+              "url": "https://www.bverwg.de/051125B4B2.25.0",
+              "title": "BVerwG 4 B 2.25, Beschluss vom 05. November 2025",
+              "description": "Nach seiner allgemeinen Zweckbestimmung (§ 6a Abs. 1 Satz 1 BauNVO) dient das urbane Gebiet dem Wohnen sowie der Unterbringung von Gewerbebetrieben und sozialen ...",
+              "position": 3
+            },
+            {
+              "url": "https://www.doctrine.de/norms/laws/deutextr5ilxgau9pc87pwc/articles/deuartioiok8tthg6npwh",
+              "title": "§ 17 BauNVO | Doctrine",
+              "description": "17 BauNVO - Orientierungswerte für die Bestimmung des Maßes der baulichen Nutzung. Verkündet am 17. August 2023. 5 Versionen. Bei der Bestimmung des Maßes ...",
+              "position": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "provider": "Firecrawl CLI",
+      "query": "site.bverwg.de BauNVO § 15 Rücksichtnahme 4 C Urteil",
+      "results": {
+        "success": true,
+        "data": {
+          "web": [
+            {
+              "url": "https://www.bverwg.de/150922U4C3.21.0",
+              "title": "BVerwG 4 C 3.21, Urteil vom 15. September 2022",
+              "description": "Leitsatz: Ein Wohnbauvorhaben setzt sich unzumutbaren Belästigungen durch landwirtschaftliche Geruchsimmissionen im Sinne von § 15 Abs. 1 Satz 2 Alt. 2 ...",
+              "position": 1
+            },
+            {
+              "url": "https://www.bverwg.de/entscheidungen/pdf/161208B4B68.08.0.pdf",
+              "title": "[PDF] BUNDESVERWALTUNGSGERI...",
+              "description": "§ 15 Abs. 1 BauNVO ist eine besondere Ausprägung des Rücksichtnahmegebots; BVerwG 4 C 5.88 -",
+              "position": 2
+            },
+            {
+              "url": "https://www.bverwg.de/entscheidungen/pdf/210302U4C1.02.0.pdf",
+              "title": "[PDF] BUNDESVERWALTUNGSGERI...",
+              "description": "Maßgebend bleibt die Zweckbestimmung des jewei- ligen Baugebietes (vgl. BVerwG, Urteil vom 29. April 1992. - BVerwG 4 C 43.89 - BVerwGE 90, 140 ...",
+              "position": 3
+            },
+            {
+              "url": "https://www.gesetze-bayern.de/Content/Document/Y-300-Z-BECKRS-B-2022-N-918?view=Print",
+              "title": "Bürgerservice - Druckvorschau - Bayern.Recht",
+              "description": "Das Verwaltungsgericht hat ihre entsprechende Klage abgewiesen. Das nach § 34 BauGB zu beurteilende Vorhaben verletze keine Rechte der Klägerin.",
+              "position": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "provider": "web search",
+      "query": "site.gesetze-im-internet.de baunvo Vollzitat 2025 2026",
+      "use": "Discovery only; relied on preserved official sources."
+    },
+    {
+      "provider": "web search",
+      "query": "site.bverwg.de BauNVO § 15 Wohngebiet Ferienwohnungen Urteil",
+      "use": "Discovery only; relied on preserved official sources."
+    },
+    {
+      "provider": "web search",
+      "query": "BauNVO zuletzt geändert 2026 2025 2023 176 7 Juli Inkrafttreten",
+      "use": "Discovery only; relied on preserved official sources."
+    },
+    {
+      "provider": "web search",
+      "query": "site.recht.bund.de bgbl 2023 176 Artikel 2 Artikel 6 Inkrafttreten",
+      "use": "Discovery only; relied on preserved official sources."
+    }
+  ],
+  "local_corpus_search": {
+    "command": [
+      "rg",
+      "-l",
+      "^case_number: 4 C 5/16|^case_number: 4 C 3/21|^case_number: 4 B 2/25",
+      "/Volumes/LaCie/law-intake/eu/de/rii",
+      "-g",
+      "*.md"
+    ],
+    "exit_code": 0,
+    "matching_files": [
+      "/Volumes/LaCie/law-intake/eu/de/rii/rii-wbre202200701.md",
+      "/Volumes/LaCie/law-intake/eu/de/rii/rii-wbre201800017.md"
+    ],
+    "scope": "Exact docket metadata plus earlier broad BauNVO/docket mention searches; exact matches copied for the two judgments. No exact 4 B 2/25 match."
+  },
+  "selection": "Three court full texts read in full. Other search hits and decisions merely cited within these judgments are not adopted as separately verified authorities.",
+  "unit_disposition": [
+    {
+      "id": "p1",
+      "verified_decisions": [],
+      "disposition": "No separately verified sufficiently relevant decision selected for this unit; explanation rests on statutory text. No exhaustive unit-specific search claimed."
+    },
+    {
+      "id": "p2",
+      "verified_decisions": [],
+      "disposition": "No separately verified sufficiently relevant decision selected for this unit; explanation rests on statutory text. No exhaustive unit-specific search claimed."
+    },
+    {
+      "id": "p3",
+      "verified_decisions": [
+        "4 C 5.16"
+      ],
+      "disposition": "Case card linked; check historical and procedural limits."
+    },
+    {
+      "id": "p4",
+      "verified_decisions": [],
+      "disposition": "No separately verified sufficiently relevant decision selected for this unit; explanation rests on statutory text. No exhaustive unit-specific search claimed."
+    },
+    {
+      "id": "p4a",
+      "verified_decisions": [],
+      "disposition": "No separately verified sufficiently relevant decision selected for this unit; explanation rests on statutory text. No exhaustive unit-specific search claimed."
+    },
+    {
+      "id": "p5",
+      "verified_decisions": [
+        "4 C 3.21"
+      ],
+      "disposition": "Case card linked; check historical and procedural limits."
+    },
+    {
+      "id": "p5a",
+      "verified_decisions": [],
+      "disposition": "No separately verified sufficiently relevant decision selected for this unit; explanation rests on statutory text. No exhaustive unit-specific search claimed."
+    },
+    {
+      "id": "p6",
+      "verified_decisions": [],
+      "disposition": "No separately verified sufficiently relevant decision selected for this unit; explanation rests on statutory text. No exhaustive unit-specific search claimed."
+    },
+    {
+      "id": "p6a",
+      "verified_decisions": [
+        "4 B 2.25"
+      ],
+      "disposition": "Case card linked; check historical and procedural limits."
+    },
+    {
+      "id": "p7",
+      "verified_decisions": [],
+      "disposition": "No separately verified sufficiently relevant decision selected for this unit; explanation rests on statutory text. No exhaustive unit-specific search claimed."
+    },
+    {
+      "id": "p8",
+      "verified_decisions": [],
+      "disposition": "No separately verified sufficiently relevant decision selected for this unit; explanation rests on statutory text. No exhaustive unit-specific search claimed."
+    },
+    {
+      "id": "p9",
+      "verified_decisions": [],
+      "disposition": "No separately verified sufficiently relevant decision selected for this unit; explanation rests on statutory text. No exhaustive unit-specific search claimed."
+    },
+    {
+      "id": "p10",
+      "verified_decisions": [
+        "4 C 5.16"
+      ],
+      "disposition": "Case card linked; check historical and procedural limits."
+    },
+    {
+      "id": "p11",
+      "verified_decisions": [
+        "4 C 5.16",
+        "4 B 2.25"
+      ],
+      "disposition": "Case card linked; check historical and procedural limits."
+    },
+    {
+      "id": "p12",
+      "verified_decisions": [],
+      "disposition": "No separately verified sufficiently relevant decision selected for this unit; explanation rests on statutory text. No exhaustive unit-specific search claimed."
+    },
+    {
+      "id": "p13",
+      "verified_decisions": [],
+      "disposition": "No separately verified sufficiently relevant decision selected for this unit; explanation rests on statutory text. No exhaustive unit-specific search claimed."
+    },
+    {
+      "id": "p13a",
+      "verified_decisions": [
+        "4 C 5.16"
+      ],
+      "disposition": "Case card linked; check historical and procedural limits."
+    },
+    {
+      "id": "p14",
+      "verified_decisions": [],
+      "disposition": "No separately verified sufficiently relevant decision selected for this unit; explanation rests on statutory text. No exhaustive unit-specific search claimed."
+    },
+    {
+      "id": "p15",
+      "verified_decisions": [
+        "4 C 3.21"
+      ],
+      "disposition": "Case card linked; check historical and procedural limits."
+    },
+    {
+      "id": "p16",
+      "verified_decisions": [],
+      "disposition": "No separately verified sufficiently relevant decision selected for this unit; explanation rests on statutory text. No exhaustive unit-specific search claimed."
+    },
+    {
+      "id": "p17",
+      "verified_decisions": [],
+      "disposition": "No separately verified sufficiently relevant decision selected for this unit; explanation rests on statutory text. No exhaustive unit-specific search claimed."
+    },
+    {
+      "id": "p18",
+      "verified_decisions": [],
+      "disposition": "No separately verified sufficiently relevant decision selected for this unit; explanation rests on statutory text. No exhaustive unit-specific search claimed."
+    },
+    {
+      "id": "p19",
+      "verified_decisions": [],
+      "disposition": "No separately verified sufficiently relevant decision selected for this unit; explanation rests on statutory text. No exhaustive unit-specific search claimed."
+    },
+    {
+      "id": "p20",
+      "verified_decisions": [],
+      "disposition": "No separately verified sufficiently relevant decision selected for this unit; explanation rests on statutory text. No exhaustive unit-specific search claimed."
+    },
+    {
+      "id": "p21",
+      "verified_decisions": [],
+      "disposition": "No separately verified sufficiently relevant decision selected for this unit; explanation rests on statutory text. No exhaustive unit-specific search claimed."
+    },
+    {
+      "id": "p21a",
+      "verified_decisions": [],
+      "disposition": "No separately verified sufficiently relevant decision selected for this unit; explanation rests on statutory text. No exhaustive unit-specific search claimed."
+    },
+    {
+      "id": "p22",
+      "verified_decisions": [],
+      "disposition": "No separately verified sufficiently relevant decision selected for this unit; explanation rests on statutory text. No exhaustive unit-specific search claimed."
+    },
+    {
+      "id": "p23",
+      "verified_decisions": [],
+      "disposition": "No separately verified sufficiently relevant decision selected for this unit; explanation rests on statutory text. No exhaustive unit-specific search claimed."
+    },
+    {
+      "id": "p24",
+      "verified_decisions": [],
+      "disposition": "No separately verified sufficiently relevant decision selected for this unit; explanation rests on statutory text. No exhaustive unit-specific search claimed."
+    },
+    {
+      "id": "p25",
+      "verified_decisions": [],
+      "disposition": "No separately verified sufficiently relevant decision selected for this unit; explanation rests on statutory text. No exhaustive unit-specific search claimed."
+    },
+    {
+      "id": "p25a",
+      "verified_decisions": [],
+      "disposition": "No separately verified sufficiently relevant decision selected for this unit; explanation rests on statutory text. No exhaustive unit-specific search claimed."
+    },
+    {
+      "id": "p25b",
+      "verified_decisions": [],
+      "disposition": "No separately verified sufficiently relevant decision selected for this unit; explanation rests on statutory text. No exhaustive unit-specific search claimed."
+    },
+    {
+      "id": "p25c",
+      "verified_decisions": [],
+      "disposition": "No separately verified sufficiently relevant decision selected for this unit; explanation rests on statutory text. No exhaustive unit-specific search claimed."
+    },
+    {
+      "id": "p25d",
+      "verified_decisions": [],
+      "disposition": "No separately verified sufficiently relevant decision selected for this unit; explanation rests on statutory text. No exhaustive unit-specific search claimed."
+    },
+    {
+      "id": "p25e",
+      "verified_decisions": [],
+      "disposition": "No separately verified sufficiently relevant decision selected for this unit; explanation rests on statutory text. No exhaustive unit-specific search claimed."
+    },
+    {
+      "id": "p25f",
+      "verified_decisions": [],
+      "disposition": "No separately verified sufficiently relevant decision selected for this unit; explanation rests on statutory text. No exhaustive unit-specific search claimed."
+    },
+    {
+      "id": "p25g",
+      "verified_decisions": [],
+      "disposition": "No separately verified sufficiently relevant decision selected for this unit; explanation rests on statutory text. No exhaustive unit-specific search claimed."
+    },
+    {
+      "id": "p26",
+      "verified_decisions": [],
+      "disposition": "No separately verified sufficiently relevant decision selected for this unit; explanation rests on statutory text. No exhaustive unit-specific search claimed."
+    },
+    {
+      "id": "p26a",
+      "verified_decisions": [],
+      "disposition": "No separately verified sufficiently relevant decision selected for this unit; explanation rests on statutory text. No exhaustive unit-specific search claimed."
+    },
+    {
+      "id": "p27",
+      "verified_decisions": [],
+      "disposition": "No separately verified sufficiently relevant decision selected for this unit; explanation rests on statutory text. No exhaustive unit-specific search claimed."
+    }
+  ]
+}

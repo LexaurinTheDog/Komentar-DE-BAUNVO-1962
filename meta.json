@@ -1,0 +1,42 @@
+{
+  "cc": "de",
+  "lang": "de",
+  "repo": "Komentar-DE-BAUNVO-1962",
+  "repo_dir": "/Volumes/LaCie/open-commentary/de/Komentar-DE-BAUNVO-1962",
+  "title": "Kommentar zur Baunutzungsverordnung (BauNVO)",
+  "source_path": "/Volumes/LaCie/open-commentary/_work/de/Komentar-DE-BAUNVO-1962/sources/canonical.md",
+  "intro_file": "00-einleitung.md",
+  "intro_desc": "Fassung, Methode und Anwendung",
+  "labels": {
+    "text": "Wortlaut der Vorschrift",
+    "chapter": "Kommentarkapitel",
+    "notes": "Quellenhinweis"
+  },
+  "chapters": [
+    {
+      "n": 1,
+      "slug": "nutzungsarten",
+      "title": "Art der baulichen Nutzung (§§ 1–15)"
+    },
+    {
+      "n": 2,
+      "slug": "nutzungsmass",
+      "title": "Maß der baulichen Nutzung (§§ 16–21a)"
+    },
+    {
+      "n": 3,
+      "slug": "bauweise",
+      "title": "Bauweise und überbaubare Grundstücksfläche (§§ 22–23)"
+    },
+    {
+      "n": 4,
+      "slug": "leerstelle",
+      "title": "Weggefallener vierter Abschnitt (§ 24)"
+    },
+    {
+      "n": 5,
+      "slug": "ueberleitung",
+      "title": "Überleitungs- und Schlussvorschriften (§§ 25–27)"
+    }
+  ]
+}
