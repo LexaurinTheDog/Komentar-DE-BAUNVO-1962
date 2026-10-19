@@ -1,1 +1,9 @@
-{"repo": "Komentar-DE-BAUNVO-1962", "units": 40, "verbatim_ratio": 1.0, "commentary_chars": 72498, "errors": [], "warnings": [], "ok": true}
+{
+  "repo": "Komentar-DE-BAUNVO-1962",
+  "units": 40,
+  "verbatim_ratio": 1.0,
+  "commentary_chars": 74427,
+  "errors": [],
+  "warnings": [],
+  "ok": true
+}

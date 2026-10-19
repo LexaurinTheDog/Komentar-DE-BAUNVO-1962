@@ -1,9 +1,89 @@
 {
-  "complete": false,
+  "complete": true,
   "units_reviewed": 40,
-  "unresolved_blockers": [
-    "Final rebuilt-output validation in progress"
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "unit": "p1",
+      "severity": "precision",
+      "finding": "Scope of planning differentiation powers insufficiently explicit.",
+      "correction": "Added applicable area groups, optional partial-area scope and preservation of remaining area purpose.",
+      "resolved": true
+    },
+    {
+      "unit": "p6a",
+      "severity": "authority_precision",
+      "finding": "Case reference did not identify its actual supporting proposition.",
+      "correction": "Added Rn. 7 requirement that every main use contribute to area character, without a general weighting formula.",
+      "resolved": true
+    },
+    {
+      "unit": "p7",
+      "severity": "substantive_ambiguity",
+      "finding": "Joint statement about pure office/residential projects could imply mandatory internal use mixture in every building.",
+      "correction": "Distinguished area purpose from individual building; office building generally permitted under paragraph 2 number 1.",
+      "resolved": true
+    },
+    {
+      "unit": "p11",
+      "severity": "authority_precision",
+      "finding": "Relevant 4 B 2.25 card assignment was not directly explained in this commentary unit.",
+      "correction": "Added actual Rn. 8 holding on retail restriction and contribution to urban mixture; preserved undecided Rn. 9–11 surroundings question.",
+      "resolved": true
+    },
+    {
+      "unit": "p12",
+      "severity": "overbreadth",
+      "finding": "Statement about where parking may occur exceeded statutory rule about admissible parking facilities.",
+      "correction": "Limited consequence to planning admissibility of parking spaces and garages in designated floors or floor parts.",
+      "resolved": true
+    },
+    {
+      "unit": "p14",
+      "severity": "incomplete_elements",
+      "finding": "Compressed account of hydrogen requirements omitted important allocation and measurement details.",
+      "correction": "Specified existing independent solar plant in GE/GI, allocated and supplementary renewable electricity, aggregate area, mean terrain height reference and multiple-connection restriction for supplementary plants.",
+      "resolved": true
+    },
+    {
+      "unit": "p16",
+      "severity": "precision",
+      "finding": "Minimum-measure authorization described only as applying to certain measures.",
+      "correction": "Named included measures and distinguished GRZ, ground area, BMZ and building volume not listed in this authorization.",
+      "resolved": true
+    },
+    {
+      "unit": "p23",
+      "severity": "ambiguity",
+      "finding": "Building-line obligation could be read as actual duty to develop the land.",
+      "correction": "Clarified line compliance on development; designation itself does not impose actual construction.",
+      "resolved": true
+    }
   ],
-  "findings": [],
-  "limitations": []
+  "limitations": [
+    "Selective case-law coverage: the three cited full decisions were reread; no exhaustive new search for every provision.",
+    "Historical BauNVO versions are not comprehensively reproduced; concrete old-plan applications require applicable historical primary texts.",
+    "No comprehensive commentary on supplementary BauGB rules, Landesbauordnungsrecht or current technical immission rules.",
+    "Currentness checked through fresh official consolidation, its amendment statement and the last amendment commencement; no exhaustive review of every gazette issue.",
+    "The repeated court request used Firecrawl and a provider-reported same-day cache; earlier direct court requests returned 403.",
+    "Fresh-process internal second pass, without external professional approval or a guarantee of all possible interpretations."
+  ],
+  "reviewed_at": "2026-10-19T13:43:34.905078+00:00",
+  "decisive_date": "2026-10-19",
+  "review_mode": "Independent second pass by a fresh process not involved in first manuscript authorship; no external professional approval",
+  "per_unit_evidence": "review-units.json",
+  "corrected_units": 8,
+  "technical_validation": {
+    "repo": "Komentar-DE-BAUNVO-1962",
+    "units": 40,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 74427,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "completeness_report": "completeness-report.json",
+  "quality_report": "quality-report.json",
+  "official_source_verification": "sources/verification.json",
+  "case_full_text_evidence": "sources/review/case-source-check.json"
 }
