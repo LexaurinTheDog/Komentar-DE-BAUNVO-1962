@@ -242,6 +242,81 @@
       "path": "cases/051125B4B2.25.0-direct-error.html",
       "sha256": "2938e9f1284180959e33ab1718d0793a72ff6e4cdb8108c34dcd14e69446de5c",
       "source_usable": false
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/baunvo/xml.zip",
+      "accessed_at": "2026-10-19T13:35:56.253849+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "sha256": "5e5c767112b30be8e8316feef9124efdd0105cb67eac8cc7ecc441f2c8c5fbb8",
+      "path": "sources/review/baunvo.zip",
+      "phase": "independent_second_pass",
+      "format_validated": true,
+      "validation": "ZIP CRC and XML parsed; jurabk BauNVO",
+      "xml_sha256": "d654896409b6a0604c3bada96e9730b278f30dcbf391ce756507dc928e947c88",
+      "same_xml_as_authoring": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html",
+      "accessed_at": "2026-10-19T13:35:57.808923+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "a952bd802c4752797a8f2eac38e4b0f61e3df9d559d4ddc03904894380ed146b",
+      "path": "sources/review/baunvo.html",
+      "phase": "independent_second_pass",
+      "format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/baunvo/",
+      "accessed_at": "2026-10-19T13:35:58.752172+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "f51d189f3daa684bfd43853ff300f5a0e4ef853b213d2a688a3e4725c90b6294",
+      "path": "sources/review/index.html",
+      "phase": "independent_second_pass",
+      "format_validated": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bbaug/__249a.html",
+      "accessed_at": "2026-10-19T13:38:57.408750+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "caa173de20928f17ba52d8852c9be7f8ee192d63f7e02f0b2bc9751cd157aad9",
+      "path": "sources/review/baugb-249a.html",
+      "format_validated": true
+    },
+    {
+      "url": "https://www.bverwg.de/051125B4B2.25.0",
+      "accessed_at": "2026-10-19T13:39:28.614013+00:00",
+      "phase": "independent_second_pass",
+      "transport": "Firecrawl CLI; provider cache explicitly reported",
+      "http_status_reported_by_provider": 200,
+      "provider_metadata": {
+        "viewport": "width=device-width, initial-scale=1",
+        "generator": "GravCMS",
+        "theme-color": "#ffffff",
+        "language": "de",
+        "title": "BVerwG 4 B 2.25, Beschluss vom 05. November 2025  | Bundesverwaltungsgericht",
+        "msapplication-TileColor": "#ffffff",
+        "msapplication-TileImage": "/user/themes/bverwg/icon/ms-icon-144x144.png",
+        "favicon": "https://www.bverwg.de/user/themes/bverwg/icon/android-icon-192x192.png",
+        "scrapeId": "01a15461-c2f6-73bd-9711-850e717dc97c",
+        "sourceURL": "https://www.bverwg.de/051125B4B2.25.0",
+        "url": "https://www.bverwg.de/051125B4B2.25.0",
+        "statusCode": 200,
+        "contentType": "text/html; charset=utf-8",
+        "proxyUsed": "basic",
+        "cacheState": "hit",
+        "cachedAt": "2026-10-19T13:21:41.459Z",
+        "creditsUsed": 1,
+        "concurrencyLimited": false
+      },
+      "path": "sources/review/051125B4B2.25.0-response.json",
+      "sha256": "039acfbb9091b6d19af02ccac39e890a003d244b703cf689e08fe33729064081",
+      "raw_html_path": "sources/review/051125B4B2.25.0.html",
+      "raw_html_sha256": "c44e57b0090e8cdae505d5dded253c48646e4f5052614710df71ba5808709ad7",
+      "format_validated": true,
+      "validation": "Matching docket/ECLI and sequential HTML data-rdn 1–25; entire raw HTML and markdown byte-identical to authoring snapshot"
     }
   ],
   "original_sha256": "a014b0250a5efbf987e190dbbd956a41668095d6ac6fc5304b1557141b9e4b73",
@@ -264,5 +339,13 @@
     "xml_sha256": "d654896409b6a0604c3bada96e9730b278f30dcbf391ce756507dc928e947c88",
     "sha256": "d0f656aecfda2c96348af1adb17cec5ed3d79f9d347057ce554b2cefba7067aa"
   },
-  "intake_comparison": "No substantive change in all 40 numbered units; § 25 editorial footnote now separated; sources/change-map.json"
+  "intake_comparison": "No substantive change in all 40 numbered units; § 25 editorial footnote now separated; sources/change-map.json",
+  "second_pass": {
+    "date": "2026-10-19",
+    "current_consolidation_rechecked": true,
+    "canonical_xml_unchanged": true,
+    "xml_sha256": "d654896409b6a0604c3bada96e9730b278f30dcbf391ce756507dc928e947c88",
+    "commencement_rechecked": "Article 2 and Article 6(1), official BGBl 2023 I Nr. 176, pages 6 and 8; page 8 independently re-extracted to sources/review/bgbl-2023-176-page8.txt",
+    "baugb_249a_unchanged": true
+  }
 }

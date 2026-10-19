@@ -1,0 +1,337 @@
+{
+  "review_date": "2026-10-19",
+  "review_mode": "Fresh process second pass; manual reading of all units, not external professional approval",
+  "units": [
+    {
+      "id": "p1",
+      "label": "§ 1",
+      "result": "corrected",
+      "checks": "Darstellung von Bauflächen und Baugebieten von Festsetzung getrennt; Absätze 4–10 und deren Gebietsumfang geprüft. Bereich §§ 4–9, Möglichkeit nach Absatz 8 und Schutz der übrigen Gebietsteile nach Absatz 10 präzisiert.",
+      "statutory_text_sha256": "aff8244d6bbe6d77106cbe98920357a6a0aef5f37a0d56f5934f01af09eb21a6",
+      "commentary_sha256": "b7923b5ec5f101bee9fcf5d367bdab3dd9c4b804285f8b77d730c4389982dc31"
+    },
+    {
+      "id": "p2",
+      "label": "§ 2",
+      "result": "checked_no_material_change",
+      "checks": "Nutzgärten und Nebenerwerb als Gebietsleitbild; allgemeine Gebietsversorgung von Ausnahme für sonstige Wohngebäude mit höchstens zwei Wohnungen unterschieden.",
+      "statutory_text_sha256": "6153efcf1a3427835cbe5d589ac98ae9234d23d5c1451573d6ad7f2f62320a0a",
+      "commentary_sha256": "bc6c52a608b0a02d39e27268339f34e6e8a3df79edd572e6b3e87212117a5f1b"
+    },
+    {
+      "id": "p3",
+      "label": "§ 3",
+      "result": "checked_no_material_change",
+      "checks": "Gebietsbezogene Kinderbetreuung; Bedarfsklauseln bei täglichen Versorgungsnutzungen und bestimmten Anlagen, jedoch nicht bei sonstigen sozialen Anlagen; Pflegewohnen und Ferienwohnen getrennt.",
+      "statutory_text_sha256": "e70030f712ba6c5ddfee1dc681280df81722bf15fdc4045691126d4ad506522b",
+      "commentary_sha256": "5b840dfdd6b252ab3784e66a001e6268968381959a74c20550417de1b1e8afa2"
+    },
+    {
+      "id": "p4",
+      "label": "§ 4",
+      "result": "checked_no_material_change",
+      "checks": "Vorwiegendes Wohnen; Versorgungsbezug nur bei Absatz 2 Nummer 2, keine identische ausdrückliche Bindung bei Nummer 3; Ausnahmegruppen und Planmodifikation geprüft.",
+      "statutory_text_sha256": "deefc422fbd6db299f3469a06183605f804216a0c7e72a22da464e7d0e1dfcd0",
+      "commentary_sha256": "66e19b22294c651e27c2c5b321fbb6e239ff59481d9ec5b31ce6823632a7eb3d"
+    },
+    {
+      "id": "p4a",
+      "label": "§ 4a",
+      "result": "checked_no_material_change",
+      "checks": "Überwiegend bebauter Bestand als Voraussetzung; wohnverträgliche besondere Eigenart, zentrale Verwaltung als Ausnahme und beide Wohnflächenbindungen geprüft.",
+      "statutory_text_sha256": "f90b65afe57e73de8e1f3a9836accd6eda5bfa8639f0718b1fcc34070acc01f7",
+      "commentary_sha256": "ad6430719f662a1541828b74bc5b48736d1f959445b4a6d88a5136272089db03"
+    },
+    {
+      "id": "p5",
+      "label": "§ 5",
+      "result": "checked_no_material_change",
+      "checks": "Vorrangige landwirtschaftliche Rücksichtnahme ohne pauschale Erweiterungsgarantie; Tankstellen/Gartenbau allgemein, Vergnügungsstätten ausnahmsweise. Urteil 4 C 3.21 stützt Heranrückensproblematik.",
+      "statutory_text_sha256": "5a23b99b362e7c2f2ea25c8ff40ac2ccecef6c1f6746167055963ea11e2a027c",
+      "commentary_sha256": "bbd9d6e24d1f0ae0f32a7a508b0e6ffbcc8958f59a7f3af8dbcb272d3e6e4ba1"
+    },
+    {
+      "id": "p5a",
+      "label": "§ 5a",
+      "result": "checked_no_material_change",
+      "checks": "Nebenerwerbsstellen und nicht gewerbliche Tierhaltung allgemein, Vollerwerbswirtschaftsstellen/Gartenbau/Tankstellen als Ausnahme; ungleichgewichtige Mischung und Übergang getrennt.",
+      "statutory_text_sha256": "faf8c53afce2e9e517089703633163c7c368e18f2f5b81a50c1c1715f74f23a2",
+      "commentary_sha256": "64d44290b28d568bb4f2a448e37ea13058d03a177e189d776942f8d2b51bc659"
+    },
+    {
+      "id": "p6",
+      "label": "§ 6",
+      "result": "checked_no_material_change",
+      "checks": "Wohnen und nicht wesentlich störendes Gewerbe; keine starre Grundstücksquote; Zweiteilung für nicht kerngebietstypische Vergnügungsstätten und zusätzliche Handelsschranke geprüft.",
+      "statutory_text_sha256": "ab78b7d2a208393ec3f198bc24e9e63aa6d1b52b6a8ce70f0caa76978bcb89aa",
+      "commentary_sha256": "125fd426389c8005a1f9d4df640fc4292e8ee948e7665ddbf7ed9868c4ec6df9"
+    },
+    {
+      "id": "p6a",
+      "label": "§ 6a",
+      "result": "corrected",
+      "checks": "Ungleichgewichtige Mischung, Störungsschwelle, vier Festsetzungsoptionen und Ausnahmestellung von Vergnügungsstätten geprüft. Tragenden Satz zur Mitprägung jeder Hauptnutzung aus 4 B 2.25 Rn. 7 ausdrücklich ergänzt.",
+      "statutory_text_sha256": "34ae970e9154f1571006df310a6b8f0ce2993126e7c523298b987cd975a343b9",
+      "commentary_sha256": "9e5c0c3ae726538a4363314794f189704360b4eebea446e53c7cfae19862c665"
+    },
+    {
+      "id": "p7",
+      "label": "§ 7",
+      "result": "corrected",
+      "checks": "Gebietszweck von Nutzung des einzelnen Gebäudes getrennt: missverständlichen Satz zu reinem Büroprojekt ersetzt; Bürogebäude nach Absatz 2 Nummer 1 allgemein möglich. Wohnungs- und Tankstellenabstufungen sowie begrenzte Öffnung des Absatzes 4 geprüft.",
+      "statutory_text_sha256": "3388879e98aa327fa52f684a90cfad9531446303263d5c64157275c8d0a11b3b",
+      "commentary_sha256": "6a678cf2635cb3e86a6b16ea7ed324f6bba4d036718d0d22477ee5ae0ed495b3"
+    },
+    {
+      "id": "p8",
+      "label": "§ 8",
+      "result": "checked_no_material_change",
+      "checks": "Nicht erheblich belästigendes Gewerbe, erneuerbare Energien im Katalog, funktional zugeordnete und in Grundfläche UND Baumasse untergeordnete Ausnahmewohnung sowie Sport allgemein geprüft.",
+      "statutory_text_sha256": "1f7ca7081f1a58fe5241ce475fbc975b92931099172cc9f653aaff24b254f8ce",
+      "commentary_sha256": "e27c4d0960011a8326ecf49f0b66fcea435e795d8d1aae7e06eac9ebd31dfb8a"
+    },
+    {
+      "id": "p9",
+      "label": "§ 9",
+      "result": "checked_no_material_change",
+      "checks": "Ausschließliche Gewerbeausrichtung mit ausdrücklichen Ausnahmen, überwiegende Aufnahme anderswo unzulässiger Betriebe; Sport hier nur Ausnahme, keine allgemeine Wohnzulassung geprüft.",
+      "statutory_text_sha256": "bef2c0095c1fc3330a05249db948917c81b3aba8af25eaf4dc6d3b06a0f390a1",
+      "commentary_sha256": "f6bdfc5dec6e2baaa24551d45df101f3dd519fc6c40e0e69910414ea20a2a64c"
+    },
+    {
+      "id": "p10",
+      "label": "§ 10",
+      "result": "checked_no_material_change",
+      "checks": "Nicht abschließende Gebietsbeispiele; Hausgruppenregel, verpflichtende Grundflächenfestsetzung für Wochenendhäuser gegenüber Kann-Regel für Ferienhäuser; wechselnder Personenkreis und § 17 geprüft.",
+      "statutory_text_sha256": "ea55680934fd672b207f87693cbf300702d848cf8309ddd53733a8a5ee447321",
+      "commentary_sha256": "6837c6e6ec759251a84d4d9c83f9546efb7e6b852264c2c109da32a1f6a94133"
+    },
+    {
+      "id": "p11",
+      "label": "§ 11",
+      "result": "corrected",
+      "checks": "Wesentliche Unterscheidung, bestimmtes Nutzungsprogramm und drei Handelsgruppen geprüft; Geschossfläche 1200 m² von Großflächigkeit getrennt, widerlegbare Wirkungsvermutung beidseitig erklärt. Beleg 4 B 2.25 Rn. 8 mit offener Umfeldfrage hinzugefügt.",
+      "statutory_text_sha256": "6a6723591b0da1a673b9f106464552ee29f61bc4119fb5713b81e1ed1ee100a9",
+      "commentary_sha256": "d0822df12fc1daf9c237260a1810e700a263b1f91757b8ec9160abc82873addf"
+    },
+    {
+      "id": "p12",
+      "label": "§ 12",
+      "result": "corrected",
+      "checks": "Bedarfsbezug und getrennte Fahrzeugverbote einschließlich Eigengewicht geprüft. Aussage zum Parken auf die gesetzliche Anlagenzulässigkeit in festgesetzten Geschossen/Geschossteilen begrenzt; Landesrechtsvorbehalt beibehalten.",
+      "statutory_text_sha256": "886d0588fc27ab4b6a2ca43ce7488669c378c4f4b2b3625b26a7032c436b1a97",
+      "commentary_sha256": "018303be95b52b27433aa36268d38656397ceb094b68e84af13e91289d10617e"
+    },
+    {
+      "id": "p13",
+      "label": "§ 13",
+      "result": "checked_no_material_change",
+      "checks": "Freiberufliche/freiberufsähnliche Tätigkeit anhand konkreter Organisation; Räume in §§ 2–4 gegenüber Gebäuden in §§ 4a–9; keine unbelegte Prozentgrenze angenommen.",
+      "statutory_text_sha256": "632bb867c6bb9fcd49dd2db8ba74d80a5124f87b5cec21a28ac8986efb6f1dd6",
+      "commentary_sha256": "b32df14323f38f66bca27c73025769dcca173a9810895f4f3d1cd29afaef0cd5"
+    },
+    {
+      "id": "p13a",
+      "label": "§ 13a",
+      "result": "checked_no_material_change",
+      "checks": "Definition mit Gästewechsel, Entgelt, vorübergehender eigener Häuslichkeit; Regelfall Gewerbe gegenüber möglicher Raumzuordnung zur Beherbergung; kleine Betriebe im WR und historische Grenzen von 4 C 5.16 geprüft.",
+      "statutory_text_sha256": "9eb64ad16fba7ee2a3e264ae7652135b4f8809036da986e666865180efd51f97",
+      "commentary_sha256": "8e0b78b77bd8853851e29c857db66d6c5b9ed2a8865e0a4c3115c79699908d45"
+    },
+    {
+      "id": "p14",
+      "label": "§ 14",
+      "result": "corrected",
+      "checks": "Absätze 1, 1a, 2 und 3 nach Unterordnung, Versorgung und allgemeiner/ausnahmsweiser Zulässigkeit getrennt. Absatz 4 ergänzt: vorhandene nicht untergeordnete Solaranlage in GE/GI, zugeordnete/ergänzende Stromquellen, gesamtes Flächenmaß, präziser Höhenbezug und Mehrfachverbindungsverbot auch der ergänzenden Anlagen.",
+      "statutory_text_sha256": "02e64c59a4fe5d34a19b36440db024943e5572b3820cd7ab3b9593e792a68214",
+      "commentary_sha256": "82c304b1b8058b440b47c41de389b8456144f1e64ed8407c7d52f24455c099ce"
+    },
+    {
+      "id": "p15",
+      "label": "§ 15",
+      "result": "checked_no_material_change",
+      "checks": "Gebietscharakterkontrolle von wechselseitiger Störungskontrolle getrennt; keine freie Neuplanung; Absatz 3 verbietet alleinige Ableitung aus Verfahrenseinstufung. Altes Geruchsrecht in 4 C 3.21 nicht als heutiger Grenzwert übernommen.",
+      "statutory_text_sha256": "80e531c459f15dff977ec597db78d7ce0dd7d6c9e72a85344a59a0a72adb5b54",
+      "commentary_sha256": "d7d509420a5afe586ede575182b0bc30f32c7026e8c447833f2f0598e8fa5d8e"
+    },
+    {
+      "id": "p16",
+      "label": "§ 16",
+      "result": "corrected",
+      "checks": "FNP-Maßdarstellung, Instrumente und Pflichtfestsetzungen im B-Plan geprüft. Erfasste Mindestmaßgrößen einzeln bezeichnet und nicht erfasste GRZ/Grundfläche/BMZ/Baumasse abgegrenzt; zwingende Höhe und Ausnahmeerfordernis erklärt.",
+      "statutory_text_sha256": "4d18c455214092f479c21cf3082e0cff9ac76ceea9e8fe5fab3eeb841fdde648",
+      "commentary_sha256": "5afda1b8f512b17be1a47377ea32917e8732a0207a3ac2478337a693da8d8386"
+    },
+    {
+      "id": "p17",
+      "label": "§ 17",
+      "result": "checked_no_material_change",
+      "checks": "Sämtliche Tabellenwerte und Gebietszuordnungen einschließlich nicht vorhandener BMZ-Werte geprüft. Heutige Orientierungsfunktion von verbindlichen Planfestsetzungen und besonderem Überschreitungsverbot in Ferien-/Wochenendhausgebieten getrennt.",
+      "statutory_text_sha256": "3b2e8a5747b32a89e1fe8f686573d78eea658df261b0a4eb1be67d473bef381d",
+      "commentary_sha256": "07eb5a0e532c48fe6a574e61b937f5f9912c6f47efb6c73c898e89a4147d07aa"
+    },
+    {
+      "id": "p18",
+      "label": "§ 18",
+      "result": "checked_no_material_change",
+      "checks": "Messbare obere/untere Bezugspunkte, geringfügige Abweichung nur bei zwingender Höhe, keine erfundene Prozentgrenze oder pauschaler Höhenbonus; Zahlenbeispiel geprüft.",
+      "statutory_text_sha256": "ebd72e6e6bb90501339f492c84a736c9714c37b93fe1f2d23b4e523e1cc270a2",
+      "commentary_sha256": "3db065f3b6b8059f6db5f7070fa9f447285b52e0018724b961ac74cf8ea36495"
+    },
+    {
+      "id": "p19",
+      "label": "§ 19",
+      "result": "checked_no_material_change",
+      "checks": "Bezugsfläche Bauland hinter Straßenbegrenzung, Mitrechnung aller drei Nebenflächengruppen, 50-Prozent- und 0,8-Begrenzung, Planabweichungen und zwei Einzelfallöffnungen geprüft. Energieregel Absatz 5 und Rechnung 400+180<600 geprüft.",
+      "statutory_text_sha256": "9476e7707e8e05cf92968b46ced69b882a9d38690da70d659374948495289170",
+      "commentary_sha256": "dee3efb0b0420ac16f05b07c7fa0d212a199398f3b3c56f1ad0076c5879e2b24"
+    },
+    {
+      "id": "p20",
+      "label": "§ 20",
+      "result": "checked_no_material_change",
+      "checks": "Landesrechtliche Vollgeschosse; Außenmaße aller Vollgeschosse gegenüber Wohnfläche, besondere Planregel für andere Geschosse und Ausnahmen Absatz 4. Rechenbeispiel 2×350=700 bei 800 zulässiger GF geprüft.",
+      "statutory_text_sha256": "ed79cfe14bed53f456753c37ff1dc433b560299ac15c41797a18c6ff54054860",
+      "commentary_sha256": "8eb36198ee4b460f9cb58020f67fdebe69248c48c4bef93a78ac58849312f6ce"
+    },
+    {
+      "id": "p21",
+      "label": "§ 21",
+      "result": "checked_no_material_change",
+      "checks": "Kubikmeter je Quadratmeter, vertikaler Außenmaßbezug und zwingende Mitrechnung anderer Aufenthaltsräume, Verweisung auf § 20 Absatz 4 und Sonderbegrenzung hoher Geschosse. 1,2×3,5=4,2 und 4,2×2000=8400 geprüft.",
+      "statutory_text_sha256": "30a923ba11ac68311ca24eb4c841a200dabf9422342e972f6616e8964f7de1a9",
+      "commentary_sha256": "e1e2a087c2b36f88443ad9989808a03261668cf08b389d104f3128658065978d"
+    },
+    {
+      "id": "p21a",
+      "label": "§ 21a",
+      "result": "checked_no_material_change",
+      "checks": "Planabhängigkeit in Absätzen 1, 2, 4 Nummer 3 und 5 geprüft; 0,1-Erweiterung nur unter Vorbehalt § 19 Absatz 4, weitere Ausnahmen sowie notwendige unterirdische Garagen unterschieden.",
+      "statutory_text_sha256": "e800aad2927eb50d81ecd91087f2922f00406af73a48444a559e2614df30fef3",
+      "commentary_sha256": "ff9814c97a262514fe698b92cdb9f6e2f54b91e9e264a242a8ac1a02bc28d570"
+    },
+    {
+      "id": "p22",
+      "label": "§ 22",
+      "result": "checked_no_material_change",
+      "checks": "Offene Bauweise, Hausformen und 50-m-Grenze, seitlicher Abstand der Hausform als Ganzes, geschlossene Bauweise mit Bestandsabweichung und konkret bestimmte abweichende Bauweise geprüft.",
+      "statutory_text_sha256": "7c3430c67cdd204ce83222379d104c679affafeb6f1a8657562e35b7ea09ac89",
+      "commentary_sha256": "b86c201a29b01b6de4f1bea77b6ec255f1e0a1c224614de036c6de2159217219"
+    },
+    {
+      "id": "p23",
+      "label": "§ 23",
+      "result": "corrected",
+      "checks": "Baulinie/Baugrenze/Bebauungstiefe, Ausnahmen für Gebäudeteile und Nebenanlagen außerhalb des Baufensters geprüft. Klarstellung ergänzt, dass eine Baulinie allein keine tatsächliche Bebauungspflicht begründet.",
+      "statutory_text_sha256": "163ca4cb8e395e30bd0a69cc815158a2153c4127ddd796d198bad4b31348e43e",
+      "commentary_sha256": "a144be9ab238bd306bd3d146e85a6328c0ed82b224b0f0723a538b592c3aa7b4"
+    },
+    {
+      "id": "p24",
+      "label": "§ 24",
+      "result": "checked_no_material_change",
+      "checks": "Amtlich weggefallene Stelle vollständig als Leerstelle behandelt; keine fingierte heutige Ermächtigung und keine historische Ergänzung aus Erinnerung.",
+      "statutory_text_sha256": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0",
+      "commentary_sha256": "77e4d218bc333104504e1cac6a34f6ed3b0bc0cd061042ab8c8c10a9052adaf1"
+    },
+    {
+      "id": "p25",
+      "label": "§ 25",
+      "result": "checked_no_material_change",
+      "checks": "Ursprünglicher Übergang nur bei eingeleitetem und bereits ausgelegtem Verfahren; Quellenfußnote mit ursprünglichem/erstem Änderungsübergang getrennt. Keine Gleichsetzung mit Bekanntmachung 2017.",
+      "statutory_text_sha256": "7c89e845f7e8b6d781414420027b8b390cf8b070722aa725832ae0f7fcb2c0dd",
+      "commentary_sha256": "1923618803187d9bcd8ed6e6f1cda2b7e1649034c2ce74c1d7c9c1a271ad57f2"
+    },
+    {
+      "id": "p25a",
+      "label": "§ 25a",
+      "result": "checked_no_material_change",
+      "checks": "Allgemeiner Übergang nach Absatz 1 von besonderer vertikaler Festsetzungsermächtigung nach Absatz 2 getrennt; historische BBauG-Verfahrensgrundlagen nicht durch heutige Normen ersetzt.",
+      "statutory_text_sha256": "9865ddd5d72c2bda3cb28581604abfd2026a93bafe4fc3d32de93bbc88ad8942",
+      "commentary_sha256": "cc0ab3a0312e2955a24539662b2e782a0c6b734066a23cb5804dfd09ae01306d"
+    },
+    {
+      "id": "p25b",
+      "label": "§ 25b",
+      "result": "checked_no_material_change",
+      "checks": "Absatz 1 bewahrt nur § 11 Absatz 3 Satz 3, nicht gesamte frühere BauNVO; entsprechende Anwendung des Satzes 4 nach Absatz 2 als ausdrückliche Verbindung historischer Regelungselemente geprüft.",
+      "statutory_text_sha256": "cd181889e981d534e8be20e076f08fb8c61f275dffdd651aef9df2ed76779f8b",
+      "commentary_sha256": "a39eaa9d8a2b6a014191e92acf53e5d4c10c801c5728874a655837472cad04b5"
+    },
+    {
+      "id": "p25c",
+      "label": "§ 25c",
+      "result": "checked_no_material_change",
+      "checks": "Vor dem 27.01.1990 öffentlich ausgelegter Bauleitplanentwurf und Fassung bis 26.01.1990; kein Gleichsetzen des Satzungs-/Bekanntmachungsdatums mit Fassungszuordnung.",
+      "statutory_text_sha256": "f8fc88a17e6ee724f63888953b2042048ce330cf158b6731a951508f71c9cbcc",
+      "commentary_sha256": "4fc5a82f4f4217623aad28d97294d6367103159c5f26d7db9d48be6da745085e"
+    },
+    {
+      "id": "p25d",
+      "label": "§ 25d",
+      "result": "checked_no_material_change",
+      "checks": "Auslegung vor 20.09.2013 als Tatbestand, amtliche Formulierung bis zum 20.09.2013 unverändert erhalten. Keine ungesicherte historische Norm rekonstruiert; Verfahrensbeginn und tatsächliche Auslegung getrennt.",
+      "statutory_text_sha256": "371ada5b7a849ef77c477953d612f5a7da0bf96b9b16035366c42c0e522e0a61",
+      "commentary_sha256": "5bac93b4bda6ca4ffabcda1878c31c1715af2296ce28bee7d95889a7bda862e8"
+    },
+    {
+      "id": "p25e",
+      "label": "§ 25e",
+      "result": "checked_no_material_change",
+      "checks": "Auslegung nach BauGB beziehungsweise PlanSiG vor 23.06.2021; keine automatische Übernahme des MDW/Orientierungsansatzes in Altpläne. Beispiele mit erster Auslegung vor/nach Stichtag geprüft.",
+      "statutory_text_sha256": "dd2791d5fb2dcbc91b81e6c61135d4ddba84adb8df5e012e77e3a61ccf309320",
+      "commentary_sha256": "234505feff01ca5af3ec8929e80db696f6867e64a9453a21d4249c29737f88eb"
+    },
+    {
+      "id": "p25f",
+      "label": "§ 25f",
+      "result": "checked_no_material_change",
+      "checks": "Gesetzliche öffentliche Auslegung oder Internetveröffentlichung vor 01.01.2023 von bloßen Sitzungsunterlagen getrennt; eigenes Novellenereignis von § 25g und Möglichkeit zur Neueinleitung unterschieden.",
+      "statutory_text_sha256": "c1171721d8e2263a6ffec53eb058c8533653ef125e489e0e4aaa8bfa6f9569a0",
+      "commentary_sha256": "e58f0cedf7211aee94116ff9b10deeae34f579233742e8234adc79dd3bb493de"
+    },
+    {
+      "id": "p25g",
+      "label": "§ 25g",
+      "result": "checked_no_material_change",
+      "checks": "Vor 07.07.2023 gesetzliche Auslegung/Internetveröffentlichung; historische BauGB-Verfahrensfassung und materielle BauNVO-Fassung getrennt. BGBl 2023 I Nr. 176 Artikel 2 und 6(1) unmittelbar kontrolliert.",
+      "statutory_text_sha256": "27e093e7f814af8c7e96eb61760aefa13ec9a2e9689ed7fe3009367014439374",
+      "commentary_sha256": "81f05dc318d89d90b75c2d104ed0d8f680e3781f56f23a334547fc471e27af6d"
+    },
+    {
+      "id": "p26",
+      "label": "§ 26",
+      "result": "checked_no_material_change",
+      "checks": "Nur amtliche Überschrift Berlin-Klausel vorhanden; kein materieller Text ergänzt und keine pauschale territoriale Ausnahme behauptet.",
+      "statutory_text_sha256": "1cb35283d9a0873379f1bc7844cf1ba697cbcc10753ab8beec61dca02e2b4924",
+      "commentary_sha256": "dad2d7d0cdf81e1580ae32a1f1d21956af57acdef2b3e3289b69e12cfa9e65ce"
+    },
+    {
+      "id": "p26a",
+      "label": "§ 26a",
+      "result": "checked_no_material_change",
+      "checks": "Verweisungskonflikt als Tatbestandsvoraussetzung, primär entsprechendes DDR-Recht und subsidiär entsprechende Zielnorm; keine generelle Fortgeltung von DDR-Baurecht behauptet.",
+      "statutory_text_sha256": "bbb0d0522d7fe40499886a1fc6d0c6b04729a548d55ffa221d1b92d5a523bf08",
+      "commentary_sha256": "8c984cac70ffff2c3375ae3c88914c6f42711690d93a4b7380ee4f8041d8b582"
+    },
+    {
+      "id": "p27",
+      "label": "§ 27",
+      "result": "checked_no_material_change",
+      "checks": "Nur amtliche Überschrift Inkrafttreten vorhanden. Ursprünglicher Fußnotenhinweis, Neubekanntmachung, Änderungseintritt und planbezogener Übergang auseinandergehalten; letzte Novelle durch Verkündung belegt.",
+      "statutory_text_sha256": "844df424a9c5cb55f23b7ad11f00abcc40f560f2daea33c41ef135da0c5fbab4",
+      "commentary_sha256": "674f83f98bf893bef22d7f0737e39fe0d57dc46ad939171e573f9d504aca0357"
+    }
+  ],
+  "total_units": 40,
+  "corrected_units": [
+    "p1",
+    "p11",
+    "p12",
+    "p14",
+    "p16",
+    "p23",
+    "p6a",
+    "p7"
+  ]
+}

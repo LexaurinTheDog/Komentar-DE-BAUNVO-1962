@@ -1,0 +1,9 @@
+{
+  "complete": false,
+  "units_reviewed": 40,
+  "unresolved_blockers": [
+    "Final rebuilt-output validation in progress"
+  ],
+  "findings": [],
+  "limitations": []
+}

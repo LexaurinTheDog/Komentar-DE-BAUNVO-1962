@@ -326,5 +326,23 @@
       "verified_decisions": [],
       "disposition": "No separately verified sufficiently relevant decision selected for this unit; explanation rests on statutory text. No exhaustive unit-specific search claimed."
     }
-  ]
+  ],
+  "second_pass": {
+    "date": "2026-10-19",
+    "method": "Repeated exact case_number metadata search with rg; all three saved full reasons read and all claim-to-reasons assignments checked.",
+    "local_corpus_command": [
+      "rg",
+      "-l",
+      "^case_number: 4 C 5/16|^case_number: 4 C 3/21|^case_number: 4 B 2/25",
+      "/Volumes/LaCie/law-intake/eu/de/rii",
+      "-g",
+      "*.md"
+    ],
+    "matches": [
+      "/Volumes/LaCie/law-intake/eu/de/rii/rii-wbre202200701.md",
+      "/Volumes/LaCie/law-intake/eu/de/rii/rii-wbre201800017.md"
+    ],
+    "fresh_web_request": "https://www.bverwg.de/051125B4B2.25.0 via Firecrawl; identical cached full text, not a new exhaustive case-law search",
+    "claim_evidence": "review-units.json and sources/review/case-source-check.json"
+  }
 }
