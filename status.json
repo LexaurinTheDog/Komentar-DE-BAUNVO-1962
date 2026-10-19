@@ -1,0 +1,80 @@
+{
+  "stage": "drafted_technical_validation",
+  "country": "de",
+  "identifier": "BauNVO",
+  "title": "Verordnung über die bauliche Nutzung der Grundstücke",
+  "decisive_date": "2026-10-19",
+  "completed_at": "2026-10-19T13:34:16.908758+00:00",
+  "work": "/Volumes/LaCie/open-commentary/_work/de/Komentar-DE-BAUNVO-1962",
+  "output": "/Volumes/LaCie/open-commentary/de/Komentar-DE-BAUNVO-1962",
+  "total_units": 40,
+  "completed_units": 40,
+  "chapters": 5,
+  "commentary_characters": 72498,
+  "source_checks": {
+    "official_xml_verified": true,
+    "html_and_xml_agree": true,
+    "expected_ids_from_independent_official_toc": true,
+    "official_ids_count": 40,
+    "missing_ids": [],
+    "duplicate_ids": [],
+    "empty_slots": [
+      "p24",
+      "p26",
+      "p27"
+    ],
+    "annexes": "None in official TOC/body; § 17 table preserved.",
+    "source_hash": "d654896409b6a0604c3bada96e9730b278f30dcbf391ce756507dc928e947c88",
+    "intake_sha256": "a014b0250a5efbf987e190dbbd956a41668095d6ac6fc5304b1557141b9e4b73",
+    "intake_substantive_changes": false,
+    "last_amendment": "Art. 2 G v. 3.7.2023, BGBl. 2023 I Nr. 176",
+    "effective_since": "2023-07-07",
+    "commencement_primary_evidence": "sources/bgbl-2023-176.pdf p.8 Art.6(1)",
+    "verification": "sources/verification.json",
+    "source_manifest": "sources/source-manifest.json"
+  },
+  "case_law_sources": [
+    {
+      "court": "BVerwG",
+      "date": "2017-10-18",
+      "docket": "4 C 5.16",
+      "card": "cases/4-C-5-16.md"
+    },
+    {
+      "court": "BVerwG",
+      "date": "2022-09-15",
+      "docket": "4 C 3.21",
+      "card": "cases/4-C-3-21.md"
+    },
+    {
+      "court": "BVerwG",
+      "date": "2025-11-05",
+      "docket": "4 B 2.25",
+      "card": "cases/4-B-2-25.md"
+    }
+  ],
+  "validation_result": {
+    "repo": "Komentar-DE-BAUNVO-1962",
+    "units": 40,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 72498,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "completeness_result": "completeness-report.json",
+  "quality_result": "quality-report.json",
+  "source_links": "SOURCES.md",
+  "review_evidence": "REVIEW.md",
+  "independent_second_pass": "pending; not self-certified",
+  "remaining_limitations": [
+    "Selective case-law coverage: three full texts; no exhaustive jurisprudence search for every provision.",
+    "No complete edition of historical BauNVO versions; application to an old plan requires its relevant historical primary texts.",
+    "Landesbauordnungsrecht and current technical immission standards not comprehensively reviewed.",
+    "Supplementary BauGB rules are not comprehensively commented; no case-specific permit assessment.",
+    "Direct bverwg.de requests returned HTTP 403; full official text captured through Firecrawl with provider-reported HTTP 200.",
+    "Currentness checked against official current consolidation and last-amendment commencement, not a complete audit of every gazette issue.",
+    "Independent second-pass review remains pending."
+  ],
+  "publication_actions": "None; local files and local git commits only."
+}

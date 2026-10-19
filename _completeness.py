@@ -4,7 +4,6 @@ from pathlib import Path
 W = Path(__file__).resolve().parent
 raw = W/'sources/BJNR004290962.xml'
 r = ET.parse(raw).getroot()
-toc = r.find("norm/../norm/metadaten") # identification below does not depend on the authoring parser
 toc_norm = next(n for n in r.findall('norm') if n.findtext('metadaten/enbez') == 'Inhaltsübersicht')
 expected = []
 for row in toc_norm.findall('.//row'):

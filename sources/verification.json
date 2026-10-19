@@ -261,7 +261,8 @@
     "path": "sources/canonical.md",
     "derived_from": "sources/BJNR004290962.xml",
     "parser": "_parse.py",
-    "xml_sha256": "d654896409b6a0604c3bada96e9730b278f30dcbf391ce756507dc928e947c88"
+    "xml_sha256": "d654896409b6a0604c3bada96e9730b278f30dcbf391ce756507dc928e947c88",
+    "sha256": "d0f656aecfda2c96348af1adb17cec5ed3d79f9d347057ce554b2cefba7067aa"
   },
   "intake_comparison": "No substantive change in all 40 numbered units; § 25 editorial footnote now separated; sources/change-map.json"
 }
